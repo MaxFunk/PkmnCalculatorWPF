@@ -5,4 +5,6 @@ This calculator will eventually be used for my own Pokémon fangame/mod in the f
 
 Currently, this application is still a work in progress, though a first beta version will soon be available for download for testing purposes.
 
-![Screenshot](images/pkmn_calc_wip_1.png)
+![Screenshot](images/pkmn_calc_wip_2.png)
+
+![Screenshot](images/pkmn_calc_wip_3.png)
